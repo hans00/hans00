@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hans</h1>
 <h3 align="center">A full-stack developer from Taiwan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hans00" alt="hans00" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hans00&no-frame=true&theme=dark_dimmed&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="hans00" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
